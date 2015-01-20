@@ -1,0 +1,5 @@
+Myscreener will be able to screen the stocks as per need.
+
+There will be more functionality that will be added:
+
+
